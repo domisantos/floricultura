@@ -270,7 +270,7 @@ class _HomePageState extends State<HomePage> {
       margin: EdgeInsets.only(top: 10),
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
-        border: Border.all(color: Colors.green),
+        border: Border.all(color: Colors.purple),
         borderRadius: BorderRadius.circular(10),
       ),
       child: Row(
